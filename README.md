@@ -30,4 +30,8 @@ uri_carros_nomes = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/ma
 uri_carros_valor = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-06/data/carros-valor.txt'
 uri_carros_zero_km = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-06/data/carros-zero-km.txt'
 ```
+### 2020-05-09
+```
+uri_db = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-09/data/db.csv'
+```
 
