@@ -50,6 +50,8 @@ uri_db = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-
 ```
 uri_aluguel = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/aluguel.csv'
 
+uri_aluguel_residencial = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/aluguel_residencial.csv'
+
 uri_extras_aluguel_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.csv'
 uri_extras_aluguel_json = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.json'
 uri_extras_aluguel_txt = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.txt'
