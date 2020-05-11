@@ -46,4 +46,15 @@ uri_enem = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/202
 ```
 uri_db = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-09/data/db.csv'
 ```
+### 2020-05-11
+```
+uri_aluguel = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/aluguel.csv'
+
+uri_extras_aluguel_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.csv'
+uri_extras_aluguel_json = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.json'
+uri_extras_aluguel_txt = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.txt'
+uri_extras_aluguel_xlsx = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.xlsx'
+uri_extras_dados_html_1 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/dados_html_1.html'
+uri_extras_dados_html_2 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/dados_html_2.html'
+```
 
