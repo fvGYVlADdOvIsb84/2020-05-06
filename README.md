@@ -58,5 +58,7 @@ uri_extras_aluguel_txt = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Pyt
 uri_extras_aluguel_xlsx = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel.xlsx'
 uri_extras_dados_html_1 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/dados_html_1.html'
 uri_extras_dados_html_2 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/dados_html_2.html'
+
+uri_extras_aluguel_amostra_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel_amostra.csv'
 ```
 
