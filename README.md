@@ -63,4 +63,15 @@ uri_extras_dados_html_2 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Py
 
 uri_extras_aluguel_amostra_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-11/data/extras/aluguel_amostra.csv'
 ```
+### 2020-05-12
+```
+uri_ibge_nomes_masculinos = 'https://servicodados.ibge.gov.br/api/v1/censos/nomes/ranking?qtd=200&sexo=m'
+uri_ibge_nomes_femininos = 'https://servicodados.ibge.gov.br/api/v1/censos/nomes/ranking?qtd=200&sexo=f'
 
+uri_cursos = 'http://tabela-cursos.herokuapp.com'
+
+uri_nomes_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-12/data/nomes.csv'
+uri_cursos_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-12/data/cursos.csv'
+uri_matriculas_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-12/data/matriculas.csv'
+uri_matriculas_por_curso_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-12/data/matriculas_por_curso.csv'
+```
