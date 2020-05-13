@@ -79,12 +79,12 @@ uri_matriculas_por_curso_csv = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb
 ```
 ### 2020-05-13
 ```
-alucar = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/alucar.csv'
-alucel = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/alucel.csv'
-cafelura = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/cafelura.csv'
-chocolura = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/chocolura.csv'
-dias_final_de_semana = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/dias_final_de_semana.csv'
-newsletter_alucar = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/newsletter_alucar.csv'
-vendas_por_dia = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/vendas_por_dia.csv'
+uri_alucar = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/alucar.csv'
+uri_alucel = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/alucel.csv'
+uri_cafelura = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/cafelura.csv'
+uri_chocolura = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/chocolura.csv'
+uri_dias_final_de_semana = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/dias_final_de_semana.csv'
+uri_newsletter_alucar = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/newsletter_alucar.csv'
+uri_vendas_por_dia = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/vendas_por_dia.csv'
 ```
 
