@@ -87,4 +87,7 @@ uri_dias_final_de_semana = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/P
 uri_newsletter_alucar = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/newsletter_alucar.csv'
 uri_vendas_por_dia = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-13/data/vendas_por_dia.csv'
 ```
-
+### 2020-05-15
+```
+uri_consumo_cerveja = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-15/data/consumo_cerveja.csv'
+```
