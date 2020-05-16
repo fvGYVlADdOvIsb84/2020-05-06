@@ -90,4 +90,10 @@ uri_vendas_por_dia = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/
 ### 2020-05-15
 ```
 uri_consumo_cerveja = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-15/data/consumo_cerveja.csv'
+
+uri_modelo_consumo_de_cerveja = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-15/data/modelo_consumo_de_cerveja.dat'
+
+uri_housepricing = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-15/data/housepricing.zip'
+
+uri_modelo_preco = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-15/data/modelo_preco.dat'
 ```
