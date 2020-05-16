@@ -93,3 +93,7 @@ uri_consumo_cerveja = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python
 
 uri_housepricing = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-15/data/housepricing.zip'
 ```
+### 2020-05-16
+```
+uri_dataset = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-16/data/dataset.csv'
+```
