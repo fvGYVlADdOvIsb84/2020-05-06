@@ -97,3 +97,7 @@ uri_housepricing = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/ma
 ```
 uri_dataset = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-16/data/dataset.csv'
 ```
+### 2020-05-17
+```
+uri_dataset = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-17/data/dados.csv'
+```
