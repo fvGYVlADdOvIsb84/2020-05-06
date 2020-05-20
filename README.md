@@ -99,5 +99,10 @@ uri_dataset = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/
 ```
 ### 2020-05-17
 ```
-uri_dataset = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-17/data/dados.csv'
+uri_dados = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-17/data/dados.csv'
+```
+### 2020-05-20
+```
+uri_dados = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-20/data/dados.csv'
+uri_dados_projeto = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-20/data/dados_projeto.csv'
 ```
