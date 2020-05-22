@@ -106,3 +106,8 @@ uri_dados = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/20
 uri_dados = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-20/data/dados.csv'
 uri_dados_projeto = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-20/data/dados_projeto.csv'
 ```
+### 2020-05-22
+```
+uri_co2 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-22/data/co2.csv'
+uri_nascimentos = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-22/data/nascimentos.csv'
+```
