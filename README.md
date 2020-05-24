@@ -111,8 +111,4 @@ uri_dados_projeto = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/m
 uri_co2 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-22/data/co2.csv'
 uri_nascimentos = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-22/data/nascimentos.csv'
 ```
-### 2020-05-23
-```
-uri_tips = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/tips.csv'
-uri_tips_atualizado = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/tips_atualizado.csv'
-```
+
