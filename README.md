@@ -118,6 +118,6 @@ uri_tips_atualizado = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python
 ```
 ### 2020-05-26
 ```
-uri_monitoramento_tempo = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/monitoramento_tempo.csv'
-uri_iris = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/iris.csv'
+uri_monitoramento_tempo = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-26/data/monitoramento_tempo.csv'
+uri_iris = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-26/data/iris.csv'
 ```
