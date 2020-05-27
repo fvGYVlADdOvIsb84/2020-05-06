@@ -116,4 +116,8 @@ uri_nascimentos = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/mas
 uri_tips = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/tips.csv'
 uri_tips_atualizado = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/tips_atualizado.csv'
 ```
-
+### 2020-05-26
+```
+uri_monitoramento_tempo = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/monitoramento_tempo.csv'
+uri_iris = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-23/data/iris.csv'
+```
