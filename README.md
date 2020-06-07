@@ -121,3 +121,8 @@ uri_tips_atualizado = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python
 uri_monitoramento_tempo = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-26/data/monitoramento_tempo.csv'
 uri_iris = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-05-26/data/iris.csv'
 ```
+### 2020-06-07
+```
+uri_imdb_reviews = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-07/data/imdb-reviews-pt-br.csv.gz'
+```
+
