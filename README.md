@@ -124,5 +124,9 @@ uri_iris = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/202
 ### 2020-06-07
 ```
 uri_imdb_reviews = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-07/data/imdb-reviews-pt-br.csv.gz'
+
+uri_acesso = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-07/data/acesso.csv.gz'
+uri_busca = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-07/data/busca.csv.gz'
+uri_busca2 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-07/data/busca2.csv.gz'
 ```
 
