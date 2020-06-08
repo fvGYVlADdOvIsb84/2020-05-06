@@ -129,4 +129,8 @@ uri_acesso = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2
 uri_buscas = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-07/data/buscas.csv.gz'
 uri_buscas2 = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-07/data/buscas2.csv.gz'
 ```
-
+### 2020-06-08
+```
+uri_emails = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-08/data/emails.csv.gz'
+uri_situacao_do_cliente = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-08/data/situacao_do_cliente.csv.gz'
+```
