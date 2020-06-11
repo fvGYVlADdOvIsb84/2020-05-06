@@ -136,12 +136,12 @@ uri_situacao_do_cliente = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Py
 ```
 ### 2020-06-11
 ```
-uri_avaliacoes_usuario = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-111/data/avaliacoes_usuario.csv.gz'
-uri_cluster_filmes = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-111/data/cluster_filmes.csv.gz'
-uri_movies_multilinear_reg = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-111/data/movies_multilinear_reg.csv.gz'
-uri_regressao_linear_alura = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-111/data/regressao_linear_alura.csv.gz'
-uri_users_vs_movies = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-111/data/users_vs_movies.csv.gz'
-uri_zootopia_completo_data = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-111/data/zootopia_completo_data.csv.gz'
-uri_zootopia_data = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-111/data/zootopia_data.csv.gz'
+uri_avaliacoes_usuario = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/avaliacoes_usuario.csv.gz'
+uri_cluster_filmes = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/cluster_filmes.csv.gz'
+uri_movies_multilinear_reg = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/movies_multilinear_reg.csv.gz'
+uri_regressao_linear_alura = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/regressao_linear_alura.csv.gz'
+uri_users_vs_movies = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/users_vs_movies.csv.gz'
+uri_zootopia_completo_data = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/zootopia_completo_data.csv.gz'
+uri_zootopia_data = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/zootopia_data.csv.gz'
 ```
 
