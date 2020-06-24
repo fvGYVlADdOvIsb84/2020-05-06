@@ -144,4 +144,9 @@ uri_users_vs_movies = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python
 uri_zootopia_completo_data = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/zootopia_completo_data.csv.gz'
 uri_zootopia_data = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-11/data/zootopia_data.csv.gz'
 ```
-
+### 2020-06-24
+```
+uri_passageiros = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-24/data/Passageiros.csv'
+uri_celular = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-24/data/Celular.csv'
+uri_engajamento = 'https://raw.githubusercontent.com/fvGYVlADdOvIsb84/Python/master/2020-06-24/data/Engajamento.csv'
+```
